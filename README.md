@@ -12,7 +12,8 @@
 ## 2)  Marco Teórico
 
 ### Capacitores
-Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene lapropiedad de capacitancia.
+
+Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia. Su construcción se la realiza con dos placas conductoras paralelas separadas por una cortsa distancia entre sí; en esta distancia se encuentra un material aislante denominado dieléctrico, que es donde se almacena toda la energía.
 
 
 

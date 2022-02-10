@@ -3,13 +3,34 @@
 ##  1) Objetivos
 
 ### 1.1) Objetivo general
-- 
-
+- Realizar una simulación en DCACLAB con el uso de inductores y capacitores, para verificar los comportamientos de los componentes en diferentes circuitos
 ### 1.2) Objetivos específicos
+- Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente directa
+- Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente alterna
+- Analizar las diferentes disposiciones de bobinas y capacitores dentro del circuito
 
 ## 2)  Marco Teórico
 
+
+
 ## 3) Explicación del procedimiento
+1.- Construya en el protoboard el circuito mostrado en la figura 1
+
+a) Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
+b) Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+
+![LAB7 INFORME](https://user-images.githubusercontent.com/99141342/153498022-591d9476-2fdb-4dae-8255-f9aaa5460ec2.PNG)
+
+2.- Construya el circuito mostrado en la Figura 2
+
+![LAB7 INFORME2](https://user-images.githubusercontent.com/99141342/153503716-e67cef1e-30e7-4433-a367-b80b8fc4931f.PNG)
+
+Se realizan los pasos a, b y c que se hicieron para la figura 1 para la figura 2.
 
 ## 4) Anpalisis de resultados y  respuesta a interrogantes
 

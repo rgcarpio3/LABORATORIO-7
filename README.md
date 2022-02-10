@@ -7,9 +7,12 @@
 ### 1.2) Objetivos específicos
 - Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente directa
 - Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente alterna
-- Analizar las diferentes disposiciones de bobinas y capacitores dentro del circuito
+- Analizar las diferentes disposiciones de bobinas y capacitores dentro del circuito, como son las diposiciones en serie y paralelo
 
 ## 2)  Marco Teórico
+
+### Capacitores
+Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene lapropiedad de capacitancia.
 
 
 
@@ -30,13 +33,22 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 ![LAB7 INFORME2](https://user-images.githubusercontent.com/99141342/153503716-e67cef1e-30e7-4433-a367-b80b8fc4931f.PNG)
 
-Se realizan los pasos a, b y c que se hicieron para la figura 1 para la figura 2.
+Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en la figura 2.  
+
 
 ## 4) Anpalisis de resultados y  respuesta a interrogantes
 
+
+
 ## 5)  Video
+
+
 
 ## 6) Conclusiones
 
+
+
 ## 7) Bibliografía
+
+
 

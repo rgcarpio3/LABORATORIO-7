@@ -10,7 +10,7 @@
 
 - Analizar los valores que arroja el multímetro al momento de medir el voltaje en el circuito de corriente alterna, para reconocer qué tipo de valor reconoce el instrumento de medida.
 
-- Observar 
+- Observar los gráficos sinusoidales que muestre el osciloscopio, para determinar el comportamiento del inductor y capacitor en el circuito de corriente alterna.
 
 - Analizar los valores medidos de la corriente dentro del rango especificado de frecuencia de corriente alterna, para verificar el comportamiento de los componentes sobre la corriente.
 

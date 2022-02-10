@@ -8,12 +8,11 @@
 
 ### 1.2) Objetivos específicos
 
-- Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente directa.
+- Analizar los valores que arroja el multímetro al momento de medir el voltaje en el circuito de corriente alterna, para reconocer qué tipo de valor reconoce el instrumento de medida.
 
-- Analizar el comportamiento de la bobina y el capacitor en circuitos de corriente alterna.
+- Observar los gráficos sinusoidales que muestre el osciloscopio, para determinar el comportamiento del inductor y capacitos en el circuito de corriente alterna.
 
-- Analizar las diferentes disposiciones de bobinas y capacitores dentro del circuito, como son las diposiciones en serie y paralelo.
-
+- Analizar los valores medidos de la corriente dentro del rango especificado de frecuencia de corriente alterna, para verificar el comportamiento de los componentes sobre la corriente.
 
 ## 2)  Marco Teórico
 

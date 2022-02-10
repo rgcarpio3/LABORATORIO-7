@@ -16,10 +16,21 @@
 
 ## 2)  Marco Teórico
 
-### Capacitor
+### El capacitor 
 
 Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia. Su construcción se la realiza con dos placas conductoras paralelas separadas por una cortsa distancia entre sí; en esta distancia se encuentra un material aislante denominado dieléctrico, que es donde se almacena toda la energía.
 
+Al inducirse un voltaje en el capacitor, los electrones libres de una de las placas conductoras paralelas, se traslada hacia la otra, entonces el capacitor queda cargado positivamente en un lado, y negativamente en el otro, produiendo que exista energía en el espacio dejado por las placas. La cantidad de carga que un capacitor puede guardar se llama capacitancia, cuya unidad de medida es el Farad (F).
+
+![LAB7 INFORME3](https://user-images.githubusercontent.com/99141342/153509275-ccecd462-6d0c-4e72-ae3b-88d628916412.PNG)
+
+### El inductor
+
+El inductor es un componente elétrico, cuya estructura es un alambre enrollado. Al enrollar el cable, se genera un campo electromagnético a lo largo de todo el cable, que se va sumando conforme aumenta el número de vueltas dada por el cable.
+
+![LAB7 INFORME4](https://user-images.githubusercontent.com/99141342/153510985-49505a47-af75-4976-9f78-2ef947b07fc4.PNG)
+
+De aquí surge el término inductancia, que es una medida de la capacidad que tiene una bobina para establecer un voltaje inducido provocado por un cambio de corriente. El voltaje actúa en dirección opuesta al cambio de corriente. La unidad de medida es el henry (H).
 
 
 ## 3) Explicación del procedimiento

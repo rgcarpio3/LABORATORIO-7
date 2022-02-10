@@ -24,6 +24,8 @@ Al inducirse un voltaje en el capacitor, los electrones libres de una de las pla
 
 ![LAB7 INFORME3](https://user-images.githubusercontent.com/99141342/153509275-ccecd462-6d0c-4e72-ae3b-88d628916412.PNG)
 
+Dentro de la corriente directa, un capacitor no permite el pao de corriente. Sim embargo, en corriente alterna el capacitor deja pasar cierta cantidad de corriente con oposición, denominada "reactancia capacitiva".
+
 ### El inductor
 
 El inductor es un componente elétrico, cuya estructura es un alambre enrollado. Al enrollar el cable, se genera un campo electromagnético a lo largo de todo el cable, que se va sumando conforme aumenta el número de vueltas dada por el cable.
@@ -32,6 +34,7 @@ El inductor es un componente elétrico, cuya estructura es un alambre enrollado.
 
 De aquí surge el término inductancia, que es una medida de la capacidad que tiene una bobina para establecer un voltaje inducido provocado por un cambio de corriente. El voltaje actúa en dirección opuesta al cambio de corriente. La unidad de medida es el henry (H).
 
+El inductor deja pasar corriente en un circuito de corriente alterna, con cierta oposición que se llama "reactancia inductiva".
 
 ## 3) Explicación del procedimiento
 
@@ -53,7 +56,7 @@ c) Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en la figura 2.  
 
 
-## 4) Anpalisis de resultados y  respuesta a interrogantes
+## 4) Análisis de resultados y respuestas a interrogantes
 
 
 

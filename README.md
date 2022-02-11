@@ -248,5 +248,6 @@ Se dice que el valor eficaz de una corriente alterna, es el valor que tendría u
 
 Delgado, A. (12 de 3 de 2019). VoltEle. Obtenido de https://learnchannel-tv.com/es/electricity/capacitor-to-dc-voltage/#:~:text=En%20corriente%20continua%2C%20el%20condensador,condensador%20es%20su%20capacidad%20C.
 
+Floyd, T. (2007). Inductores. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 525-562). Pearson Educación.
 
-
+Floyd, T. (2007). .Capacitores. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VII ed., pp. 466-524). Pearson Educación.

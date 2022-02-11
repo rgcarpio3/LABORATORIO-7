@@ -217,6 +217,14 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ## 4) Análisis de resultados y respuestas a interrogantes
 
+### TABLA DE CONDENSADORES
+
+![TABLA CAPACITORES](https://user-images.githubusercontent.com/99141342/153617805-a7b14714-b3e8-4cff-8275-96345c62fe64.PNG)
+
+### TABLA DE BOBINAS
+
+![TABLA BOBINAS](https://user-images.githubusercontent.com/99141342/153617900-14815b0f-0512-4685-a697-356314f510b4.PNG)
+
 ###  1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 Se logró observar que la bobina en una DC se comporta como un corto circuito (conductor ideal) ya que solo es un cable dado varias vueltas y deja pasar la corriente sin ninguna oposición de la misma.

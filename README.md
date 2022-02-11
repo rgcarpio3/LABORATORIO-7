@@ -57,9 +57,11 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ### Simulación en DCACLAB
 
-#### Osciloscopio
+#### OSCILOSCOPIO
 
 ##### Frecuencia de 0 Hz
+
+
 
 ## 4) Análisis de resultados y respuestas a interrogantes
 

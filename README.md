@@ -4,7 +4,7 @@
 
 ### 1.1) Objetivo general
 
-- Realizar una simulación en DCACLAB con el uso de inductores y capacitores, para verificar los comportamientos de los componentes en diferentes circuitos.
+- _Realizar una simulación en DCACLAB con el uso de inductores y capacitores, para verificar los comportamientos de los componentes en diferentes circuitos.
 
 ### 1.2) Objetivos específicos
 

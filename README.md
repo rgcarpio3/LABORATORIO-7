@@ -57,10 +57,89 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ### Simulación en DCACLAB
 
-#### OSCILOSCOPIO
+#### OSCILOSCOPIO - FIGURA 1
 
 ##### Frecuencia de 0 Hz
 
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
+
+#### MULTÍMETRO(VOLTAJE) - FIGURA 1
+
+##### Frecuencia de 0 Hz
+
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
+
+#### MULTÍMETRO(CORRIENTE) - FIGURA 1
+
+##### Frecuencia de 0 Hz
+
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
+
+#### OSCILOSCOPIO - FIGURA 2
+
+##### Frecuencia de 0 Hz
+
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
+
+#### MULTÍMETRO(VOLTAJE) - FIGURA 2
+
+##### Frecuencia de 0 Hz
+
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
+
+#### MULTÍMETRO(CORRIENTE) - FIGURA 2
+
+##### Frecuencia de 0 Hz
+
+##### Frecuencia de 10 Hz
+
+##### Frecuencia de 50 Hz
+
+##### Frecuencia de 100 Hz
+
+##### Frecuencia de 500 Hz
+
+##### Frecuencia de 1000 Hz
 
 
 ## 4) Análisis de resultados y respuestas a interrogantes

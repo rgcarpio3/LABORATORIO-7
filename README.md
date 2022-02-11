@@ -55,6 +55,11 @@ c) Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en la figura 2.  
 
+### Simulación en DCACLAB
+
+#### Osciloscopio
+
+##### Frecuencia de 0 Hz
 
 ## 4) Análisis de resultados y respuestas a interrogantes
 

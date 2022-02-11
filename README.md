@@ -36,6 +36,8 @@ De aquí surge el término inductancia, que es una medida de la capacidad que ti
 
 El inductor deja pasar corriente en un circuito de corriente alterna, con cierta oposición que se llama "reactancia inductiva".
 
+![MAPA](https://user-images.githubusercontent.com/99141342/153617159-0d0b47c5-5e9f-498b-9a25-8950c06603e2.jpg)
+
 ## 3) Explicación del procedimiento
 
 1.- Construya en el protoboard el circuito mostrado en la figura 1

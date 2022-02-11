@@ -215,6 +215,18 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ## 4) Análisis de resultados y respuestas a interrogantes
 
+###  1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Se logró observar que la bobina en una DC se comporta como un corto circuito (conductor ideal) ya que solo es un cable dado varias vueltas y deja pasar la corriente sin ninguna oposición de la misma.
+Se investigo que el capacitor en una DC se comporta como un acumulador de carga. el condensador consiste en dos placas, que están eléctricamente aisladas una de la otra (sea por aire o mediante un aislante dieléctrico).
+
+###  2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+•	Al momento que una bobina se le aplica un voltaje AC, se produce un campo magnético que cambia regularmente, es por esto que un voltaje contrario inducido permanentemente en oposición a la AC principal.
+
+•	Un capacitor conectado en AC tiene la característica de comportarse como un circuito abierto para todos los casos. Al momento de unir el capacitor a una fuente de voltaje alterno, el voltaje en las placas, varían de acuerdo al cambio del voltaje de la fuente, y la carga de las placas del capacitor, varían de igual manera.
+
+ ### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 
 ## 5)  Video

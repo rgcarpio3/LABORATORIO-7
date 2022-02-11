@@ -244,7 +244,8 @@ https://youtu.be/w18_Y8fjHV8
 
 - Tras el análisis de los gráficos sinusoidales que se pudo observar en el osciloscopio se pudo determinar el comportamiento de los inductores y capacitores que estos tiene al funcionar con corriente alterna.
 
-- 
+- Al obsrvar los valores de corriente mostrados por el multímetro, se concluye que el valor efectivo varía conforme varía la frecuencia del generador de corriente alterna
+
 ## 7) Bibliografía
 
 Delgado, A. (12 de 3 de 2019). VoltEle. Obtenido de https://learnchannel-tv.com/es/electricity/capacitor-to-dc-voltage/#:~:text=En%20corriente%20continua%2C%20el%20condensador,condensador%20es%20su%20capacidad%20C.

@@ -61,57 +61,105 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ##### Frecuencia de 0 Hz
 
+![OSC 0 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544825-e9f80991-179f-4504-884f-fb5b46e6ab64.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![OSC 10 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544841-4c15b0d7-0958-49c3-a874-018ca056a3af.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![OSC 50 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544864-dda1e247-6577-4631-b7bd-6383f3b9bc01.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![OSC 100 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544880-4deef12b-7af8-4d39-875e-6ba243a465c6.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![OSC 500 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544887-de597d80-a791-4f0f-aa2d-0ec7ce686ae8.PNG)
+
 ##### Frecuencia de 1000 Hz
+
+![OSC 1000 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544897-74e67bf4-a045-4b2d-9099-f9a55a8cf01e.PNG)
 
 #### MULTÍMETRO(VOLTAJE) - FIGURA 1
 
 ##### Frecuencia de 0 Hz
 
+![MULTVOL 0 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544972-c27bf4fa-e752-43e3-9b00-197faed04332.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![MULTVOL 10 FIGURA 1](https://user-images.githubusercontent.com/99141342/153544985-a5024c5a-2976-478c-8e76-f53d3fbbef4a.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![MULTVOL 50 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545019-a54949a2-ccb8-4ef1-a357-e54e1b52b6dc.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![MULTVOL 100 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545029-2c56420d-7e0d-4e3e-bf54-92ce52866b81.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![MULTVOL 500 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545034-e80fb5fc-d471-4a07-b9d2-24b6b4b83b40.PNG)
+
 ##### Frecuencia de 1000 Hz
+
+![MULTVOL 1000 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545049-8bd5b9ea-1476-4b6c-9c6d-88e0330f38a4.PNG)
 
 #### MULTÍMETRO(CORRIENTE) - FIGURA 1
 
 ##### Frecuencia de 0 Hz
 
+![MULTCOR 0 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545078-df6bbeb5-ec44-4d54-b0b7-0306fd8a4414.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![MULTCOR 10 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545081-82a2fc22-2d2a-4889-b886-95dcfd49f029.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![MULTCOR 50 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545091-3d3ef663-b6dc-49f8-b72b-0af9d4c6ca57.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![MULTCOR 100 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545111-9ddc7b2b-1614-45f1-bb75-e2cbbd15c3be.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![MULTCOR 500 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545118-aa413375-8ecc-4719-acce-c075146f9006.PNG)
+
 ##### Frecuencia de 1000 Hz
+
+![MULTCOR 1000 FIGURA 1](https://user-images.githubusercontent.com/99141342/153545134-869f006a-85ce-43e8-a711-be7c9f03e4c9.PNG)
 
 #### OSCILOSCOPIO - FIGURA 2
 
 ##### Frecuencia de 0 Hz
 
+![OSC 0 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545187-b8cfc6f1-f266-4adb-b8c0-8f7d3689f7b9.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![OSC 10 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545212-14218e7c-6520-4af5-9286-3bd818fa1c47.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![OSC 50 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545229-0d7ceac7-589b-4b5f-856f-ee9b3f41f8c7.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![OSC 100 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545239-8799343d-59f9-45ee-942b-f8379a067b97.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![OSC 500 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545253-14e06377-314d-4489-bcee-a594fbcc1d68.PNG)
+
 ##### Frecuencia de 1000 Hz
+
+![OSC 1000 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545269-d024e0a1-531a-43bf-89c9-2bc4ffc6519d.PNG)
 
 #### MULTÍMETRO(VOLTAJE) - FIGURA 2
 

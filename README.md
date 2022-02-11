@@ -228,6 +228,11 @@ Se investigo que el capacitor en una DC se comporta como un acumulador de carga.
 
  ### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+•	El voltaje y la corriente van a variar un poco, ya que entra las características de los circuitos básicos. Si esta en serie el voltaje vario y la corriente se mantiene mientras que si esta en paralelo el voltaje se mantiene y varia la corriente.
+
+###  4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Se dice que el valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 ## 5)  Video
 
@@ -235,9 +240,13 @@ Se investigo que el capacitor en una DC se comporta como un acumulador de carga.
 
 ## 6) Conclusiones
 
+- El voltaje que se dio dentro del multímetro, es la variación de voltaje mediante el cambio de frecuencia dándonos su voltaje pico, el cual va a variar por el tiempo de su  periodo.
 
+- Tras el análisis de los gráficos sinusoidales que se pudo observar en el osciloscopio se pudo determinar el comportamiento de los inductores y capacitores que estos tiene al funcionar con corriente alterna.
 
 ## 7) Bibliografía
+
+Delgado, A. (12 de 3 de 2019). VoltEle. Obtenido de https://learnchannel-tv.com/es/electricity/capacitor-to-dc-voltage/#:~:text=En%20corriente%20continua%2C%20el%20condensador,condensador%20es%20su%20capacidad%20C.
 
 
 

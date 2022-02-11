@@ -165,30 +165,53 @@ Se realizan los pasos a), b), c) que se siguieron para la figura 1, aplicadas en
 
 ##### Frecuencia de 0 Hz
 
+![MULTVOL 0 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545386-dcbb3536-1013-4204-bb49-48db4edf36fc.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![MULTVOL 10 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545393-fcbbb33d-75c0-46d4-918b-ef67caf5e234.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![MULTVOL 50 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545405-258b6faf-415f-4c5b-a046-f25eb7b27e15.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![MULTVOL 100 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545421-c565aace-7014-4e1f-bb15-8e1252a9703a.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![MULTVOL 500 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545433-900c353f-3e8a-4e2c-8412-35d2ca6d3413.PNG)
+
 ##### Frecuencia de 1000 Hz
+
+![MULTVOL 1000 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545445-c16bb324-5403-4c28-8c8a-11af5449ba01.PNG)
 
 #### MULTÍMETRO(CORRIENTE) - FIGURA 2
 
 ##### Frecuencia de 0 Hz
 
+![MULTCOR 0 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545475-7308bae5-44cf-4f2f-a3e5-552586c492c6.PNG)
+
 ##### Frecuencia de 10 Hz
+
+![MULTCOR 10 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545483-102a3565-02a8-4474-814a-a2f81aa486f2.PNG)
 
 ##### Frecuencia de 50 Hz
 
+![MULTCOR 50 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545498-434fa340-d7d5-4847-9aba-9df861710cd2.PNG)
+
 ##### Frecuencia de 100 Hz
+
+![MULTCOR 100 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545517-35bec1e4-1e97-4cca-9d56-120bbc8ee433.PNG)
 
 ##### Frecuencia de 500 Hz
 
+![MULTCOR 500 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545527-e0832dee-7d0c-4bd9-be27-eda6809afa0a.PNG)
+
 ##### Frecuencia de 1000 Hz
 
+![MULTCOR 1000 FIGURA 2](https://user-images.githubusercontent.com/99141342/153545544-924b158b-f929-4568-a333-49d9ed47cda1.PNG)
 
 ## 4) Análisis de resultados y respuestas a interrogantes
 
